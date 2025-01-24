@@ -2,7 +2,7 @@
 
 Last updated: 1/24/2025
 
-For the current process, we assume we already have the summary csv file that including image details and dimension information. We will use the `pandas` library to read the csv file and `pydicom` library to read the DICOM files.
+For the current process, we assume we already have the summary csv file that including image details and dimension information. 
 
 ## Key libraries
 - pandas
