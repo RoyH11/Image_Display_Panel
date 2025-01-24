@@ -16,7 +16,7 @@ To install the libraries, we can use pip install command. For example, to instal
 pip install pandas
 ```
 
-## Creating the initial pptx file (`1002_get_optic_disc.ipynb`)
+## Creating the initial pptx file -- `1002_get_optic_disc.ipynb`
 Creating an initial pptx so we can design the layout of the image display panel manually.
 
 
